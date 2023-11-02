@@ -3,7 +3,7 @@
 
 ![Screenshot (15)](https://github.com/REZA-OJAGHI-DRO/Personal-Site/assets/145910720/9fc8cc58-6055-4822-b4c7-6cdceada200a)
 
-- [Demo Project](https://reza-ojaghi-dro.github.io/Template-Personal-Portfolio/)
+- [Demo Project](https://reza-ojaghi-dro.github.io/Personal-Site/)
  
 - Developed by reza ojaghi
 
