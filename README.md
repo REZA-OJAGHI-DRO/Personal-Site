@@ -1,7 +1,7 @@
 # Personal-Site
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-
+![Screenshot (15)](https://github.com/REZA-OJAGHI-DRO/Personal-Site/assets/145910720/9fc8cc58-6055-4822-b4c7-6cdceada200a)
 
 - [Demo Project](https://reza-ojaghi-dro.github.io/Template-Personal-Portfolio/)
  
